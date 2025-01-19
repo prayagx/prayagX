@@ -1,4 +1,4 @@
-## https://skill-matrix-tool.onrender.com/static/prayagx_skill_graph.png
+![Skill Matrix](https://skill-matrix-tool.onrender.com/static/prayagx_skill_graph.png)
 
 <!--
 **prayagx/prayagX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
